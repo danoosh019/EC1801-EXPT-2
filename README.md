@@ -129,6 +129,8 @@ Y_NOT = A'
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 Output
 # OUTPUT
+<img width="1917" height="1073" alt="exp2" src="https://github.com/user-attachments/assets/2694756f-7458-4c48-97d1-24bf8948c643" />
+
 
  
 # Viva-Voce Questions
